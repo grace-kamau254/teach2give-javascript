@@ -1,0 +1,24 @@
+# Introduction to Fuctions
+A function is a block of code that performs a specific task.
+
+Functions help in writing modular, maintainable and reusable code.
+
+In JavaScript, functions are first-class citizens; this means that they can be assigned to variables, passed as arguments, returned from other functions, stored in data structures and even created dynamically.
+
+The basic syntax for declaring a function in JavaScript is as follows:
+
+function functionName() {
+  // function body
+}
+function printHello() {
+  console.log("Hello, world");
+}
+To use a function, you must call/invoke the function as shown:
+
+function printHello() {
+  console.log("Hello, world");
+}
+
+// calling/invoking a function
+printHello();
+# Classifications of Fuctions
